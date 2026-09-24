@@ -1,0 +1,63 @@
+🔒 NS‑Bot – Privacy Policy
+Laatste update: 24 september 2026
+
+1. Welke data wordt verzameld?
+NS‑Bot verzamelt minimale gegevens, namelijk:
+
+Discord User ID (voor commando’s en permissies)
+
+Server ID (voor instellingen)
+
+Command‑input (alleen tijdelijk, voor verwerking)
+
+Eventuele bot‑instellingen die jij zelf configureert
+
+De bot verzamelt geen:
+
+namen
+
+berichten
+
+IP‑adressen
+
+locatiegegevens
+
+gevoelige informatie
+
+2. Waarom wordt data verzameld?
+De bot gebruikt data uitsluitend om:
+
+commando’s uit te voeren
+
+server‑instellingen op te slaan
+
+functionaliteit te verbeteren
+
+misbruik te voorkomen
+
+3. Hoe lang wordt data bewaard?
+Instellingen: totdat de server ze verwijdert
+
+User ID’s: zolang nodig voor functionaliteit
+
+Command‑data: wordt niet permanent opgeslagen
+
+4. Wordt data gedeeld?
+Nee.
+Data wordt niet gedeeld met derden, behalve wanneer wettelijk verplicht.
+
+5. Veiligheid
+De bot gebruikt beveiligde opslag en moderne Discord‑API‑methoden om data te beschermen.
+Er wordt geen gevoelige of persoonlijke informatie opgeslagen.
+
+6. Verwijderen van data
+Je kunt op elk moment verzoeken om verwijdering van server‑instellingen of user‑data via:
+
+/nsadmin reset
+
+contact met de eigenaar (Damien)
+
+7. Contact
+Voor vragen of verzoeken:
+Eigenaar: Damien (ScorchedDamien)
+Discord: via DM of server‑ticket
